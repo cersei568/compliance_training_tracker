@@ -97,4 +97,4 @@ A comprehensive web-based application for managing employee training, certificat
 
 ![Show Image](assets/ctt5.png)
 
-![Show Image](assets/ctt6.png)# compliance_training_tracker
+![Show Image](assets/ctt6.png)
