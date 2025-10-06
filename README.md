@@ -84,7 +84,7 @@ A comprehensive web-based application for managing employee training, certificat
 
 ## 🎥 Demo
 
-🔗 **Live Demo:** [Compliance & Training Tracker](https://onbassistant.streamlit.app)
+🔗 **Live Demo:** [Compliance & Training Tracker](https://compliancetrainingtracker.streamlit.app)
 
 
 ![Show Image](assets/ctt1.png)
